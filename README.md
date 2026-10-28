@@ -66,3 +66,7 @@ stays legible.
 MIT. See [LICENSE](LICENSE).
 
 Built by [Atharv Soni](https://github.com/ath1614).
+
+## Learn it
+
+New to this codebase? [GUIDE.md](GUIDE.md) explains it in plain English, from the idea to the tests.
