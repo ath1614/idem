@@ -6,7 +6,7 @@ A deterministic simulator of the same payment request arriving twice at the same
 jitter, change the strategy, and watch the window between reading an idempotency key and writing a
 charge open and close.
 
-Live: **https://site-7adf98e31ab145418043be7dfbb3988f.freebuff.page**
+Live: **https://idem.ath1614.workers.dev**
 
 ## Why
 

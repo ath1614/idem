@@ -1,0 +1,8 @@
+name = "idem"
+main = "deploy/index.js"
+compatibility_date = "2026-10-01"
+
+[assets]
+directory = "./deploy/public"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
