@@ -322,8 +322,7 @@ export default function App() {
             is narrower: the window between reading a key and writing a charge is where duplicate payments live.
           </p>
           <p>
-            Every schedule comes from a seeded PRNG, so a run can be reproduced exactly. There is no backend and no
-            network request.
+            Every schedule comes from a seeded PRNG, so a run can be reproduced exactly, on any machine.
           </p>
         </section>
       </main>

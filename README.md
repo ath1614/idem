@@ -46,7 +46,7 @@ npm run dev
 npm run build
 ```
 
-No backend, no analytics, no network request. The whole lab is a pure function and a React view.
+No analytics and no third-party scripts: the whole lab is a pure function behind a React view.
 
 ## Tests
 
